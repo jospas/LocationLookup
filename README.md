@@ -34,7 +34,7 @@ Approximate and interpolated locations are given a lower score.
 
 ## Pre deployment
 
-Run teh following command to download the required node modules:
+Run the following command to download the required node modules:
 
 	npm install
 
