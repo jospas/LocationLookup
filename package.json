@@ -1,0 +1,16 @@
+{
+  "name": "LocationLookup",
+  "version": "1.0.0",
+  "description": "Looks up geographic locations for addresses",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jospas/LocationLookup"
+  },
+  "keywords": [],
+  "author": "Josh Passenger jospas@mazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "0.19.2"
+  },
+  "devDependencies": {}
+}
